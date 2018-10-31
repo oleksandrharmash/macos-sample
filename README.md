@@ -5,6 +5,6 @@ The app optimizes 3D models *.obj for ARKit use and creates a ready-made archive
 
  # Example 
  <p align="center"> 
-     <img src=https://github.com/oleksandrharmash/macos-sample/blob/master/ImageApp.PNG width="300">
+     <img src=https://github.com/oleksandrharmash/macos-sample/blob/master/ImageApp.png width="300">
  </p>
  
